@@ -1,0 +1,11 @@
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\bin\Debug\net6.0\BookPublishingService.Core.deps.json
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\bin\Debug\net6.0\BookPublishingService.Core.dll
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\bin\Debug\net6.0\ref\BookPublishingService.Core.dll
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\bin\Debug\net6.0\BookPublishingService.Core.pdb
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\obj\Debug\net6.0\BookPublishingService.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\obj\Debug\net6.0\BookPublishingService.Core.AssemblyInfoInputs.cache
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\obj\Debug\net6.0\BookPublishingService.Core.AssemblyInfo.cs
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\obj\Debug\net6.0\BookPublishingService.Core.csproj.CoreCompileInputs.cache
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\obj\Debug\net6.0\BookPublishingService.Core.dll
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\obj\Debug\net6.0\ref\BookPublishingService.Core.dll
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\obj\Debug\net6.0\BookPublishingService.Core.pdb

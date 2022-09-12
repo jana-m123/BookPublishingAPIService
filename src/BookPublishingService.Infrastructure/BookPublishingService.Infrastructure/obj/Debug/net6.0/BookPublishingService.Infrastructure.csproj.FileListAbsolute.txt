@@ -1,0 +1,15 @@
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\bin\Debug\net6.0\BookPublishingService.Infrastructure.deps.json
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\bin\Debug\net6.0\BookPublishingService.Infrastructure.dll
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\bin\Debug\net6.0\ref\BookPublishingService.Infrastructure.dll
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\bin\Debug\net6.0\BookPublishingService.Infrastructure.pdb
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\bin\Debug\net6.0\BookPublishingService.Core.dll
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\bin\Debug\net6.0\BookPublishingService.Core.pdb
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\obj\Debug\net6.0\BookPublishingService.Infrastructure.csproj.AssemblyReference.cache
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\obj\Debug\net6.0\BookPublishingService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\obj\Debug\net6.0\BookPublishingService.Infrastructure.AssemblyInfoInputs.cache
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\obj\Debug\net6.0\BookPublishingService.Infrastructure.AssemblyInfo.cs
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\obj\Debug\net6.0\BookPublishingService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\obj\Debug\net6.0\BookPublishingService.Infrastructure.csproj.CopyComplete
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\obj\Debug\net6.0\BookPublishingService.Infrastructure.dll
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\obj\Debug\net6.0\ref\BookPublishingService.Infrastructure.dll
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\obj\Debug\net6.0\BookPublishingService.Infrastructure.pdb

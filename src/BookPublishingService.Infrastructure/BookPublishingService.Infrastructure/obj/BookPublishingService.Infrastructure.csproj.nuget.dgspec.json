@@ -1,0 +1,148 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\Z323448\\Jana\\BookPublishingService\\src\\BookPublishingService.Infrastructure\\BookPublishingService.Infrastructure\\BookPublishingService.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\Z323448\\Jana\\BookPublishingService\\src\\BookPublishingService.Core\\BookPublishingService.Core\\BookPublishingService.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Z323448\\Jana\\BookPublishingService\\src\\BookPublishingService.Core\\BookPublishingService.Core\\BookPublishingService.Core.csproj",
+        "projectName": "BookPublishingService.Core",
+        "projectPath": "D:\\Users\\Z323448\\Jana\\BookPublishingService\\src\\BookPublishingService.Core\\BookPublishingService.Core\\BookPublishingService.Core.csproj",
+        "packagesPath": "D:\\Users\\Z323448\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Z323448\\Jana\\BookPublishingService\\src\\BookPublishingService.Core\\BookPublishingService.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\Z323448\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\Z323448\\Jana\\BookPublishingService\\src\\BookPublishingService.Infrastructure\\BookPublishingService.Infrastructure\\BookPublishingService.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\Z323448\\Jana\\BookPublishingService\\src\\BookPublishingService.Infrastructure\\BookPublishingService.Infrastructure\\BookPublishingService.Infrastructure.csproj",
+        "projectName": "BookPublishingService.Infrastructure",
+        "projectPath": "D:\\Users\\Z323448\\Jana\\BookPublishingService\\src\\BookPublishingService.Infrastructure\\BookPublishingService.Infrastructure\\BookPublishingService.Infrastructure.csproj",
+        "packagesPath": "D:\\Users\\Z323448\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\Z323448\\Jana\\BookPublishingService\\src\\BookPublishingService.Infrastructure\\BookPublishingService.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "D:\\Users\\Z323448\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Users\\Z323448\\Jana\\BookPublishingService\\src\\BookPublishingService.Core\\BookPublishingService.Core\\BookPublishingService.Core.csproj": {
+                "projectPath": "D:\\Users\\Z323448\\Jana\\BookPublishingService\\src\\BookPublishingService.Core\\BookPublishingService.Core\\BookPublishingService.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

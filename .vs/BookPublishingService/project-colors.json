@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1b4984f4-1fe7-4b0b-8c0d-ddb4a4208eab": {
+      "ProjectGuid": "1b4984f4-1fe7-4b0b-8c0d-ddb4a4208eab",
+      "DisplayName": "BookPublishingService",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

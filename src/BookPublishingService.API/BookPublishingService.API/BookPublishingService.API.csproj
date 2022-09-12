@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="appsettings.Development.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\BookPublishingService.Core\BookPublishingService.Core\BookPublishingService.Core.csproj" />
+    <ProjectReference Include="..\..\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure\BookPublishingService.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
