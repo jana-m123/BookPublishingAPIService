@@ -9,3 +9,4 @@ D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookP
 D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\obj\Debug\net6.0\BookPublishingService.Core.dll
 D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\obj\Debug\net6.0\ref\BookPublishingService.Core.dll
 D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\obj\Debug\net6.0\BookPublishingService.Core.pdb
+D:\Users\Z323448\Jana\BookPublishingService\src\BookPublishingService.Core\BookPublishingService.Core\obj\Debug\net6.0\BookPublishingService.Core.csproj.AssemblyReference.cache
